@@ -172,6 +172,7 @@ a {
   border-radius: 4px;
   padding: 10px 32px;
   border: none;
+  cursor: pointer;
 }
 
 .features-list {
@@ -308,6 +309,7 @@ a {
     height: 60px;
     border: 1px solid #afb1b8;
     border-radius: 4px;
+    cursor: pointer;
   }
 
   .clients-icons {
@@ -529,4 +531,5 @@ position: fixed;
   border-radius: 25px;
   background:var(--background-color-white);
   border: 1px solid rgba(0, 0, 0, 0.1);
+  cursor: pointer;
 }
